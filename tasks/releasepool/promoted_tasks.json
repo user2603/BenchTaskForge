@@ -1,0 +1,26 @@
+[
+  {
+    "task": "trace-metrics",
+    "developer": "ningyu-dev"
+  },
+  {
+    "task": "shard-rebalancer",
+    "developer": "ningyu-dev"
+  },
+  {
+    "task": "facet-merge",
+    "developer": "qianxun"
+  },
+  {
+    "task": "bloom-guard",
+    "developer": "qianxun"
+  },
+  {
+    "task": "raft-heartbeat",
+    "developer": "muxuan_dev"
+  },
+  {
+    "task": "glass-proxy",
+    "developer": "peilin-dev"
+  }
+]
